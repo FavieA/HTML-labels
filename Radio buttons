@@ -1,0 +1,28 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <title>just testing</title>
+    </head>
+    <body>
+    <form>
+        <h3>what time are you very active</h3>
+        <label for="morning">
+        morning
+        <input type="radio" id="morning" name="active" checked>
+        </label>
+        <br>
+        <br/>
+        <label for="afternoon">
+         afternoon
+        <input type="radio" id="afternoon" name="active">
+        </label>
+        <br>
+        <br/>
+        <label for="evening">
+        evening
+         <input type="radio" id="evening" name="active">
+        </label>
+         </form>
+        
+    </body>
+</html>
